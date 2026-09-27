@@ -5,6 +5,7 @@ Repositório com os datasets utilizados nas atividades da disciplina de Introdu�
 Estrutura do repositório:
 ```
 IA_ChemE_UFCG
+|
 |----README.md
 |----Planilhas
 |    |----Aula 1
