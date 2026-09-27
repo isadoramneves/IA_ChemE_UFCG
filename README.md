@@ -20,7 +20,7 @@ IA_ChemE_UFCG
 
 | # | Tema | Dataset | Colab |
 | :---: | :--- | :--- | :---: |
-| **01** | Introdução à IA na EQ | `distillation_dataset.csv` | [![Open In Colab](https://google.com)](https://colab.research.google.com/drive/147LVn50Hj1Ftf3qCNZ8yQVEFsCxkiuwR?authuser=1#scrollTo=49fKM137rFr4) |
+| **01** | Introdução à IA na EQ | `distillation_dataset.csv` | [![Open In Colab](https://google.com)](https://colab.research.google.com/drive/1WwH3dXRhqTROIPC4emBsjt8aLId-jio7#scrollTo=Al6uTSlk0V-3) |
 | **02** | Limpeza de Dados Reais | `sensor_readings.csv` | [![Open In Colab](https://google.com)](https://colab.research.google.com/drive/1H9u5aKtPOxm43nX7g2PAAP982AqVlPEK#scrollTo=9fDGYzzMgp5h) |
 
 
